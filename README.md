@@ -353,12 +353,7 @@ For your SoftPro integration, I would:
 
 ---
 
-## 📧 Contact
 
-**Nouman Ashraf**  
-16 years C# development | Windows Services & MSI Packaging  
-Email: nouman.ashraf@live.com  
-LinkedIn: linkedin.com/in/n-ashraf
 
 ---
 
